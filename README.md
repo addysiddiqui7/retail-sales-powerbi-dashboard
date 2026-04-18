@@ -44,4 +44,4 @@ A 3-page interactive Power BI dashboard designed to analyze retail sales perform
 Retail Sales Dataset (Kaggle)
 
 ## Author
-Addy Siddiqui
+Adeel Siddique
