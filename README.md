@@ -4,6 +4,8 @@ A 3-page interactive Power BI dashboard designed to analyze retail sales perform
 
 ## Dashboard Pages
 
+Live Dashboard : https://app.fabric.microsoft.com/view?r=eyJrIjoiMWRlNDQzYTktZjFkNS00OGRkLWI3ZjAtMjE0OWI5NDIxOWYwIiwidCI6IjM3NDNlYmQ0LTJjYTMtNDFjMi1iZTA0LTc2Mzg2MzJjYzdjOCJ9
+
 ### Page 1: Executive Summary
 - Total Revenue, Orders, Quantity Sold
 - Average Selling Price (ASP)
